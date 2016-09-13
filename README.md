@@ -1,5 +1,4 @@
-# Typed Jquery Complexify Js  [![Build Status](https://travis-ci.org/kristoftorfs/typed-jquery.complexify.js.svg?branch=master)](https://travis-ci.org/kristoftorfs/typed-jquery.complexify.js)
-
+# Typed Complexify jQuery plugin  [![Build Status](https://travis-ci.org/kristoftorfs/typed-jquery.complexify.js.svg?branch=master)](https://travis-ci.org/kristoftorfs/typed-jquery.complexify.js)
 
 The type definition for [`jquery.complexify.js`](https://github.com/danpalmer/jquery.complexify.js.git)
 
