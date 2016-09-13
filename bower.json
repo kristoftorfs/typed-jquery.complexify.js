@@ -1,0 +1,8 @@
+{
+  "name": "typed-jquery.complexify.js",
+  "private": true,
+  "devDependencies": {
+    "jquery.complexify": "jquery.complexify.js#0.5.1",
+    "jquery": "^3.1.0"
+  }
+}
